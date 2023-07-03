@@ -1,0 +1,17 @@
+{
+  "display": {
+    "title": "Item Tubes",
+    "description": "Turns glass and stained glass into item transportation tubes.",
+    "icon": {
+      "item": "minecraft:glass"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "global:scommander",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
